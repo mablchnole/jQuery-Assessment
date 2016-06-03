@@ -1,6 +1,5 @@
 // global variable
 var buttonClicks = 0;
-var colorArray = ['yellow', 'red'];
 
 $(function(){
   // create generateButton on DOM
