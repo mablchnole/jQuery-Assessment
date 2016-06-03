@@ -1,0 +1,15 @@
+.container {
+  border-radius: 6px;
+  margin: 5px;
+  padding: 20px;
+  background-color: yellow;
+}
+
+.container.red {
+  background-color: red;
+}
+
+
+button {
+  margin: 5px;
+}
